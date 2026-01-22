@@ -1,7 +1,7 @@
 # Student Grade Management System
-
+https://github.com/oreoluwab97-droid/SDLC-Project/edit/main/README.md
 A Python-based console application for managing student grades with complete SDLC documentation.
-
+BABATUNDE RACHEAL OREOLUWA 24/13617 COMPUTER SCIENCE
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
